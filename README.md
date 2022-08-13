@@ -11,7 +11,7 @@ I first started with the Laravel framework and now it has been about a few month
 
 One of my special interests is team work to develop startup software and solve up-to-date issues in their growth path.
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect With Me:</h2>
 
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
 
@@ -25,7 +25,7 @@ One of my special interests is team work to develop startup software and solve u
 [3]: https://www.instagram.com/javad_kefayati313
 [4]: https://telegram.me/javad936807
 
-<h2>Language and Tools :</h2>
+<h2>Language And Tools :</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,cpp,css,django,docker,github,html,java,js,jquery,laravel,mysql,php,nodejs,go,py,redis&perline=9 " />
